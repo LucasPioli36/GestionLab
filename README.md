@@ -2,6 +2,10 @@
 
 Base del MVP para negocios de uñas y peluquerías. Incluye la definición funcional del Día 1, un esquema inicial para Supabase/PostgreSQL, una aplicación FastAPI mínima y datos de demostración.
 
+## Roadmap
+
+El plan completo de implementación está disponible en [ROADMAP_MVP_10_DIAS.md](ROADMAP_MVP_10_DIAS.md).
+
 ## Ejecutar localmente
 
 1. Crear un entorno virtual con Python 3.12.
